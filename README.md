@@ -1,6 +1,6 @@
 # TGwiki - Telegram知识库
 
-### 网站地址：[传送门](https://dianbaosousuo.com/tgwiki/)
+### 网站地址：[传送门](https://feijiqun.github.io/tgwiki/)
 
 由✈️飞机群打造的高质量Telegram知识库，帮助用户更科学地使用Telegram。 
 
@@ -34,7 +34,7 @@ TGwiki是Telegram Wiki的缩写，旨在打造一个开放、协作的Telegram�
 - 提交Pull Request
 - 管理员审核后将推送更新
 
-### [TGwiki - Telegram频道群组导航](https://dianbaosousuo.com/tgwiki/)
+### [TGwiki - Telegram频道群组导航](https://feijiqun.github.io/tgwiki/)
 
 
 
